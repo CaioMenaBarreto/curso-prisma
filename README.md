@@ -1,1 +1,1 @@
-# curso-prisma
+### Exercícios do minicurso-prisma.
